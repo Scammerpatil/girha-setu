@@ -90,7 +90,7 @@ const Hero = () => {
           <div className="lg:w-1/2 space-y-8">
             <h1 className="text-5xl lg:text-6xl font-extrabold leading-tight bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               Flat-Finder
-              <span className="block text-base-content mt-2">घर की तलाश अब हुई आसान !</span>
+              <span className="block text-base-content mt-2">घर की तलाश अब हुई आसान </span>
             </h1>
             <p className="text-lg text-base-content/80 leading-relaxed max-w-xl">
               Flat-Finder is a one-stop destination for finding the perfect home. With AI-powered recommendations, 
